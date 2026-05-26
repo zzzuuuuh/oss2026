@@ -1,0 +1,4 @@
+void main(){
+    // Add(1, 2);
+    // Substract(2, 1);
+}
