@@ -1,0 +1,5 @@
+void main(){
+    AddInt(1, 2);
+    AddFloat(0.1, 0.2);
+    Substract(2, 1);
+}
